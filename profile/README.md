@@ -1,4 +1,6 @@
-# Manasija Technologies
+<p align="left">
+  <img width="320" alt="manasija" src="https://github.com/user-attachments/assets/231d77b8-d2d6-4e53-93bf-4bd30029d341" />
+</p>
 
 **AI-native market intelligence infrastructure for Indian equities.**
 
